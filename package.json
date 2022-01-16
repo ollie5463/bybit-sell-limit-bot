@@ -1,0 +1,22 @@
+{
+  "name": "bybit-sell-limit-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ollie5463/bybit-sell-limit-bot.git"
+  },
+  "author": "Oliver Bannister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ollie5463/bybit-sell-limit-bot/issues"
+  },
+  "homepage": "https://github.com/ollie5463/bybit-sell-limit-bot#readme",
+  "dependencies": {
+    "bybit-api": "^2.1.8"
+  }
+}
