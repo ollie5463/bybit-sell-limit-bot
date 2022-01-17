@@ -1,0 +1,15 @@
+{
+    "apiKey": "",
+    "privateKey": "",
+    "orders": [{
+        "symbol": "BITUSDT",
+        "qty": 10,
+        "price": 100,
+        "type": "SELL_LIMIT"
+        }, {
+        "symbol": "BITUSDT",
+        "qty": 15,
+        "price": 150,
+        "type": "SELL_LIMIT"
+    }]
+}
